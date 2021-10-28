@@ -1,0 +1,14 @@
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\SQA\Documents\sebas\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
